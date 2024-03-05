@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CactusMain",
+            "request": "launch",
+            "mainClass": "src.classi_Principalli.CactusMain",
+            "projectName": "Cactus_Project1_2eeddae6"
+        },
+        {
+            "type": "java",
+            "name": "CactusProyect",
+            "request": "launch",
+            "mainClass": "classi_Principalli.CactusMain",
+            "projectName": "CACTUS_PROJECT1",
+            "vmArgs": "--module-path lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
